@@ -1,0 +1,93 @@
+/* CSS Document */
+H1{
+	text-align:center;
+	font-size:48px;
+	color:#003399;
+}
+a{
+	text-decoration:none;
+}
+.khung{
+	height:768px;
+}
+.menu{
+	text-align:center;
+	margin:10px 10px 90px 10px;
+}
+.khung img{
+	margin:30px;
+}
+span a{
+	background-color:#003399;
+	padding:10px;
+	border-radius:20px;
+	text-decoration:none;
+	color:#FFF;
+	font-size:25px;
+}
+span a:hover{
+	background-color:#50C878;
+	padding:10px;
+	border-radius:20px;
+	text-decoration:none;
+	color:#FFF;
+	font-size:25px;
+}
+.nguoimoi{
+	color:#003399;
+	font-size:18px;
+}
+.nguoimoi a{
+	color:#003399;
+}
+.danhsach{
+	font-size:18px;
+	color:#003399;
+	height:500px;
+}
+.danhsach a{
+	color:#003399;
+	text-decoration:none;
+	padding:5px;
+}
+.danhsach a:hover{
+	color:#003399;
+	text-decoration:none;
+	padding:5px;
+	border-radius:10px;
+	background-color:#50C878;
+}
+.tenweb{
+	float:left;
+	border:15px #000000;
+	
+}
+.tencoin{
+	float:left;
+	border:100px;
+	border-color:#000;
+	text-align:center;
+	margin-left:20px;
+}
+.thoigian{
+	float:left;
+	border:5px #000000;
+	text-align:center;
+	margin-left:20px;
+}
+.soluong{
+	float:left;
+	border:5px #000000;
+	text-align:center;
+	margin-left:20px;
+}
+.minpay{
+	float:left;
+	border:5px #000000;
+	text-align:center;
+	margin-left:20px;
+}
+.ban{
+	font-size:24px;
+	color:#800000;
+}
